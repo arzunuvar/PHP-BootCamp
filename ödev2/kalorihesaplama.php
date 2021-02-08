@@ -1,6 +1,5 @@
 <?php 
 
-
 $sex = "female";
 $weight = 60;
 $height = 170;
